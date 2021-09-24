@@ -1,0 +1,9 @@
+{
+    "require": {
+        "hybridauth/hybridauth": "@dev",
+        "org_heigl/hybridauth": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
